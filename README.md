@@ -1,10 +1,16 @@
 # Tin-her-hackathon
 
+TEAM NAME: TOM & JERRY
+
+TEAM MEMBER: AMRITA SIBI,AKSHYA SIBI
+
+PROJECT DESCRIPTION
 # MediStripDecoder 💊 | AI-Powered Medical Insights
 
 MediStripDecoder is a realistic, AI-driven web application designed to help users understand their medications instantly. By using **Google Gemini 1.5 Flash**, the system can "read" medicine strips from images or process manual searches to provide detailed ingredients, therapeutic classes, and safety warnings.
 
 ---
+FEATURES
 
 ## 🚀 Features
 
@@ -24,9 +30,9 @@ MediStripDecoder is a realistic, AI-driven web application designed to help user
 
 ---
 
-## ⚙️ Installation & Setup
+SCREENSHOTS
+<img width="1891" height="600" alt="image" src="https://github.com/user-attachments/assets/39388a93-5a2e-44f6-8e90-4543a522c92c" />
+<img width="1855" height="797" alt="image" src="https://github.com/user-attachments/assets/8d8af5cf-0835-4584-9e39-4208c47e1a3c" />
+<img width="1681" height="834" alt="image" src="https://github.com/user-attachments/assets/3d9c4a48-6092-4d7e-a017-176e1e85f25d" />
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/medistrip-decoder.git](https://github.com/your-username/medistrip-decoder.git)
-cd medistrip-decoder
+
