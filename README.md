@@ -30,7 +30,7 @@ FEATURES
 
 ---
 
-HOST :
+HOST :https://amrita-sibi.github.io/Tin-her-hackathon/
 
 SCREENSHOTS
 INITIAL PAGES----<img width="1891" height="600" alt="image" src="https://github.com/user-attachments/assets/39388a93-5a2e-44f6-8e90-4543a522c92c" />
