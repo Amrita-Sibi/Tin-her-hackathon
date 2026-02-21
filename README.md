@@ -31,8 +31,26 @@ FEATURES
 ---
 
 SCREENSHOTS
-<img width="1891" height="600" alt="image" src="https://github.com/user-attachments/assets/39388a93-5a2e-44f6-8e90-4543a522c92c" />
-<img width="1855" height="797" alt="image" src="https://github.com/user-attachments/assets/8d8af5cf-0835-4584-9e39-4208c47e1a3c" />
-<img width="1681" height="834" alt="image" src="https://github.com/user-attachments/assets/3d9c4a48-6092-4d7e-a017-176e1e85f25d" />
+INITIAL PAGES----<img width="1891" height="600" alt="image" src="https://github.com/user-attachments/assets/39388a93-5a2e-44f6-8e90-4543a522c92c" />
+INITIAL PAGES----<img width="1681" height="834" alt="image" src="https://github.com/user-attachments/assets/3d9c4a48-6092-4d7e-a017-176e1e85f25d" />
+SCANNED IMAGES---<img width="1855" height="797" alt="image" src="https://github.com/user-attachments/assets/8d8af5cf-0835-4584-9e39-4208c47e1a3c" />
+<img width="1570" height="713" alt="Screenshot 2026-02-21 031913" src="https://github.com/user-attachments/assets/c9a8f57d-9e92-4592-8659-94b6627b4037" />
 
+
+ARCHITECTURAL DIAGRAM
+
+<img width="630" height="765" alt="image" src="https://github.com/user-attachments/assets/a8456287-1519-42ce-9c55-2126747273a0" />
+
+WORKFLOW(FLOWCHART)
+
+<img width="488" height="750" alt="image" src="https://github.com/user-attachments/assets/b4720af0-c22a-4356-81cd-0a3b9a613962" />
+
+
+
+command :
+python app.py
+
+
+output:
+Give the corresponding details of medicine
 
